@@ -31,7 +31,7 @@ Hi, my name is Andrew, I'm a QA engineer. I'm studying some interesting technolo
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Прокачивать Python
-* [ ] Прокачивать дальше SQL
-* [ ] Погружаться в Linux
+* [ ] Продолжать погружение в SQL
+* [ ] Продолжать изучать Linux
    
 <!-- TODO-IST:END -->
