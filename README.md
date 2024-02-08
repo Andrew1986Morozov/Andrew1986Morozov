@@ -22,7 +22,7 @@ Hi, my name is Andrew, I'm a QA engineer. I'm studying some interesting technolo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My goals for the near future:**
 <!-- TODO-IST:START -->
 * [x] Develop my profile Github
 * [ ] Continue learning Javascript
