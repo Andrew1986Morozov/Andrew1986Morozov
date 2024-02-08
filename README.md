@@ -1,7 +1,4 @@
 ### Hello, my friend! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://andrewmorozov.ru/">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
 <a href="https://www.linkedin.com/in/andrey-morozov-641a06254/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,9 +8,7 @@
 
 <br />
 <br />
-<br />
 Hi, my name is Andrew, I'm a QA engineer. I'm studying some interesting technologies.
-<br />
 <br />
 <br />
 
