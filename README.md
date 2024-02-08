@@ -9,14 +9,11 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<br />
-<br />
-Привет, меня зовут Андрей, я тестировщик. Изучаю несколько интересных технологий.
-<br />
+
 <br />
 Hi, my name is Andrew, I'm a QA engineer. I'm studying some interesting technologies.
 <br />
-<br />
+
   
 **Languages and Tools:**  
 
@@ -29,10 +26,10 @@ Hi, my name is Andrew, I'm a QA engineer. I'm studying some interesting technolo
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Прокачивать Javascript
-* [ ] Прокачивать Python
-* [ ] Продолжать погружение в SQL
-* [ ] Продолжать изучать Linux
+* [x] Develop my profile Github
+* [ ] Continue learning Javascript
+* [ ] Continue learning Python
+* [ ] Continue learning SQL
+* [ ] Continue learning Linux
    
 <!-- TODO-IST:END -->
